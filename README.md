@@ -34,5 +34,5 @@ Finally, the trained model is applied to full NAIP images covering a 4 mile by 4
 |(41.28510, -94.78513)|(41.27862, -94.76478)|(41.28231, -94.74973)|
 |(42.60798, -94.79403)|(42.57709, -94.80176)|(42.60988, -94.81421)|
 
-Launch the notebook in Google Colab by clicking on this badge: [![Open In Colab](https://colab.research.google.com/drive/1rZPFU8UT39-8mVop2bE9eW5Zbi1F6pcP?usp=sharing)](https://github.com/Vinod95-git/Windturbine-detection/blob/master/Wind_turbine_detection.ipynb)
+Launch the notebook in Google Colab by clicking on this badge: [![Open In Colab](https://colab.research.google.com/drive/1rZPFU8UT39-8mVop2bE9eW5Zbi1F6pcP?usp=sharing)](https://colab.research.google.com/gist/Vinod95-git/ebc6de0effa0554b0882509c9bf01d4e/wind-turbine-detection.ipynb)
 > *After launching the notebook, verify that "Python2" and "GPU" are selected for the "Runtime type" and "Hardware accelerator" in Runtime -> Change runtime type.*
